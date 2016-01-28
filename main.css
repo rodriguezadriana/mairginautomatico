@@ -1,0 +1,23 @@
+.izq{
+	border: 10px solid yellow;
+	padding: 30px;
+	width: 200px;
+	height: 150px;
+	background-color: #ffffff;
+	opacity: 0.6;
+
+
+}
+
+
+
+.derecha{
+	border: 10px solid yellow;
+	padding: 30px;
+	margin: 1px;
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	left: 400px;
+}
+
